@@ -1,4 +1,5 @@
 import AccordionItem from './AccordionItem/AccordionItem';
+import List from './List/List';
 
 export const App = () => {
   return (
@@ -13,6 +14,7 @@ export const App = () => {
       }}
     >
       <AccordionItem />
+      <List />
     </div>
   );
 };

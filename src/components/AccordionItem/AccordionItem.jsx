@@ -20,7 +20,7 @@ class AccordionItem extends Component {
         </button>
 
         {this.state.isShow && (
-          <div className={s.}>
+          <div>
             {' '}
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia ut
             distinctio porro beatae ea delectus earum aliquam fugit asperiores.
